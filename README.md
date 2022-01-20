@@ -1,2 +1,2 @@
 # links-study
-articles to study
+articles 
