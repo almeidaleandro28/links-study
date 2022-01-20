@@ -2,10 +2,11 @@
 articles 
 
 #CLASS
-https://css-tricks.com/multiple-class-id-selectors/
+[https://css-tricks.com/multiple-class-id-selectors/]
+<br>
 #CENTER ELEMENT
-https://css-tricks.com/centering-css-complete-guide/
+[https://css-tricks.com/centering-css-complete-guide/]
 #POSITION
-https://css-tricks.com/almanac/properties/p/position/
+[https://css-tricks.com/almanac/properties/p/position/]
 #VARIABLES
-https://blog.logrocket.com/how-to-use-css-variables-like-a-pro/
+[https://blog.logrocket.com/how-to-use-css-variables-like-a-pro/]
